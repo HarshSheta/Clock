@@ -1,0 +1,38 @@
+Video Link :- https://www.youtube.com/watch?v=9DxdE__m_LA&list=PLu0W_9lII9aiQiOwthuSvinxoflmhRxM3&index=3&ab_channel=CodeWithHarry
+
+Calculateson:-
+
+Hour Hand = 12
+Minute Hand = 12
+Second Hand = 12
+
+One Round(Rotation):
+12hr  ->  360deg
+1hr    ->   (?)
+
+1hr = (360deg/12hr)
+1hr = 30deg
+
+60min -> 30deg
+1min    ->   (?)
+
+1min = (1/2)deg
+m=(m/2)deg
+
+1. For Hour Hand = [ (30*h) + (m/2) ]
+
+60min -> 360deg
+1min    ->  (?)
+
+1min = (360deg/60min)
+1min = 6deg
+
+2.For Minute Hand = (6*m)deg
+
+60sec -> 360deg
+1sec    ->  (?)
+
+1sec = (360deg/60sec)
+1sec = 6deg
+
+3.For Second Hand = (6*s)deg
